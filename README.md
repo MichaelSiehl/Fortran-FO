@@ -14,7 +14,7 @@ So far, we can already review the first steps in hardware development:
 https://en.wikipedia.org/wiki/TRIPS_architecture
 2. Followed by the experimental *Microsoft/Qualcomm E2* processor:<br />
 https://www.theregister.com/2018/06/18/microsoft_e2_edge_windows_10/
-3. and finally approaching *Intel’s Configurable Spatial Accelerator (CSA)*: V
+3. and finally approaching *Intel’s Configurable Spatial Accelerator (CSA)*: <br />
 https://www.nextplatform.com/2018/08/30/intels-exascale-dataflow-engine-drops-x86-and-von-neuman/ <br />
 https://patentscope.wipo.int/search/en/detail.jsf;jsessionid=ED24F9F36DA2A174901203FAAE3563CA.wapp2nB?docId=US222845669&recNum=614&office=&queryString=&prevFilter=&sortOption=Pub+Date+Desc&maxRec=69883930 <br />
 <br />
