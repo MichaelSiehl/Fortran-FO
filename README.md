@@ -6,12 +6,16 @@ The intention here is to give a first brief overview about using Fortran (since 
 To get started with the basic ideas behind the Fragmented Objects (FO) model, you may start reading *‘Makpangou, Mesaac & Gourhant, Yvon & Narzul, Jean-pierre. (1998). Fragmented Objects for Distributed Abstractions’*. <br />
 
 # Motivation
-Chances are that we are already approaching a new era of computers and computing in general: The introduction of *Explicit Data Graph Execution (EDGE)* computers: (https://en.wikipedia.org/wiki/Explicit_data_graph_execution).<br />
+Chances are that we are already approaching a new era of computers and computing in general: The introduction of *Explicit Data Graph Execution (EDGE)* computers: <br />
+https://en.wikipedia.org/wiki/Explicit_data_graph_execution.<br />
 <br />
 So far, we can already review the first steps in hardware development:
-1. Starting with the *University of Texas at Austin’s TRIPS* prototype processor: https://en.wikipedia.org/wiki/TRIPS_architecture
-2. Followed by the experimental *Microsoft/Qualcomm E2* processor: https://www.theregister.com/2018/06/18/microsoft_e2_edge_windows_10/
-3. and finally approaching *Intel’s Configurable Spatial Accelerator (CSA)*: https://www.nextplatform.com/2018/08/30/intels-exascale-dataflow-engine-drops-x86-and-von-neuman/ <br />
+1. Starting with the *University of Texas at Austin’s TRIPS* prototype processor: <br />
+https://en.wikipedia.org/wiki/TRIPS_architecture
+2. Followed by the experimental *Microsoft/Qualcomm E2* processor:<br />
+https://www.theregister.com/2018/06/18/microsoft_e2_edge_windows_10/
+3. and finally approaching *Intel’s Configurable Spatial Accelerator (CSA)*: V
+https://www.nextplatform.com/2018/08/30/intels-exascale-dataflow-engine-drops-x86-and-von-neuman/ <br />
 https://patentscope.wipo.int/search/en/detail.jsf;jsessionid=ED24F9F36DA2A174901203FAAE3563CA.wapp2nB?docId=US222845669&recNum=614&office=&queryString=&prevFilter=&sortOption=Pub+Date+Desc&maxRec=69883930 <br />
 <br />
 One of the main features behind EDGE is to group a number of individual instructions into an entity that they call a ‘hyperblock’. These hyperblocks are then intended to execute in parallel.<br />
